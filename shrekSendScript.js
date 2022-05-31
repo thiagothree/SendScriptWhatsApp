@@ -27,7 +27,8 @@ function enviarScript(scriptText){
 }
 
 enviarScript(`
-
+Serek testando tudo
+pra ver se funciona
 
 
 `);
